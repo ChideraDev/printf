@@ -21,7 +21,7 @@ int get_flags(const char *format, int *i)
 			if (format[curr_i] == FLAGS_CH[j])
 			{
 				flags |= FLAGS_ARR[j];
-break;
+				break;
 			}
 
 		if (FLAGS_CH[j] == 0)
