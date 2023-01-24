@@ -1,4 +1,4 @@
-Printf project is the first group project consisting of two patners in corhort 11, which consists  replicating the printf (3) function of language in c, 
+Printf project is the first group project consisting of two patners in corhort 11, which consists  replicating the printf (3) function of language in c,
 
 THE FUNCTIONS:
 This function is part of the standard library and to use it we must specify it in the header file <stdio.h>.
@@ -21,7 +21,7 @@ Write a function that produces output according to a format.
 Prototype: int _printf(const char *format, ...);
 Returns: the number of characters printed (excluding the null byte used to end output to strings)
 write output to stdout, the standard output stream
-format is a character string. 
+format is a character string.
 
 1. Education is when you read the fine print. Experience is what you get if you don't
 mandatory
@@ -41,7 +41,7 @@ You don’t have to handle the length modifiers
 6. How is the world ruled and led to war? Diplomats lie to journalists and believe these lies when they see them in print
 7. The big print gives and the small print takes away
 8. Sarcasm is lost in print
-9. Print some money and give it to us for the rain 
+9. Print some money and give it to us for the rain
 10. The negative is the equivalent of the composer's score, and the print the performance
 11. It's depressing when you're still around and your albums are out of print
 12. Every time that I wanted to give up, if I saw an interesting textile, print what ever, suddenly I would see a collection
